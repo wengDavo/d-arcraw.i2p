@@ -7,3 +7,17 @@ D'Arcraw is meant to be an eepsite index, meaning an eepsite that works as an ad
 - Right side is "research" for eepsites under the "deep-web" label.
 
 Both sections are filled and published in real-time, as long as what it finds isn't CSAM, AI slop, or an actual marketplace or vendor.
+
+## What constitutes as "recriational"
+
+1. Eccentric/niche hobbyist .onion sites and eepsites __that are currently still up__.
+
+2. __Currently up__ obscure imageboards and niche interest forums on Tor and I2P.
+
+3. __Currently up__ .onion sites and eepsites whereas the sort of memes shared on there are too intense or shocking for being posted anywhere on the clearnet i.e NSFL(in this context meaning generally disturbing, not just gore) memes.
+
+4. Shitposting .onion sitesand eepsites __that are currently still up__.
+
+## What constitutes as "research"
+
+It should be noted that the informal term "deep-web" is attributed to anything informational/knowledge-based hidden services that exist for purposes ranging from torrenting to online research to access content from the western world as someone who wouldn't be able to do so by traditional means. Examples are lost social media pages/online pages that are previously from the clearnet which have somehow been archived, virtual libraries, torrenting sites, whistleblower sites, any mirror site that’s a mirror of a clearnet site, so-called "illegal information", OSINT, instances of pre-exiting cleanet sites, and any other sort of online tool that isn't already readily accessible on the clearnet
