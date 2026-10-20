@@ -1,5 +1,5 @@
 # D'Arcraw
-D'Arcraw is meant to be an eepsite index, meaning an eepsite that works as an address book for other eepsites, and its name is a play on words over the fact that its back-end uses a DL webscraper. The scraper pings recently made addresses, picked up from registry feeds and from LeaseSets in the I2P netDb, along with addresses sampled at random from existing address books, then records the responses so they can be published on the index. One of its few key features is that the scraper never publishes hidden services that fall under the "dark-web" label.
+D'Arcraw is meant to be an eepsite index, meaning an eepsite that works as an address book for other eepsites, and its name is a play on words over the fact that its back-end uses a DL(deep learning) webscraper. The scraper pings recently made addresses, picked up from registry feeds and from LeaseSets in the I2P netDb, along with addresses sampled at random from existing address books, then records the responses so they can be published on the index. One of its few key features is that the scraper never publishes hidden services that fall under the "dark-web" label.
 
 [The front page of the index is split into two sections]:
 
