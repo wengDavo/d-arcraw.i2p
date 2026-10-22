@@ -1,4 +1,4 @@
-# D'Arcraw netDb and crawler
+# D'Arcraw.i2p
 
 A reference skeleton for D'Arcraw's two halves: a decentralized, content-addressed
 netDb and a self-updating crawl loop. Both are built around one fixed, non-learned
