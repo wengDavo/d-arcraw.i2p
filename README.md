@@ -1,6 +1,6 @@
-# D'Arcraw back-end (C++17)
+# D'Arcraw
 
-D'Arcraw's back-end: a decentralized, content-addressed netDb, a self-updating crawl
+D'Arcraw.i2p is intended to be a decentralized, content-addressed netDb, a self-updating crawl
 loop, and the distributed scrape orchestrator that ties peers into one real-time
 index. Every part is built around one fixed, non-learned content gate. The
 orchestrator is per-peer, not a central server. `ORCHESTRATOR.md` documents the design
